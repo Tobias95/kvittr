@@ -39,6 +39,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'theme',
     'useraccounts',
+    'kvittr_tweets',
 )
 
 MIDDLEWARE_CLASSES = (
